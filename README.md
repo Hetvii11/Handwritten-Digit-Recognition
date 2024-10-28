@@ -11,4 +11,3 @@
 <h4>Step 3: Here is a Some Examples</h4>
 <img src = "https://github.com/Hetvii11/Handwritten-Digit-Recognition/blob/main/Hand-Written-Digit-Recognition-master/images/4.png">
 <img src = "https://github.com/Hetvii11/Handwritten-Digit-Recognition/blob/main/Hand-Written-Digit-Recognition-master/images/5.png">
-<img src = "https://github.com/Hetvii11/Handwritten-Digit-Recognition/blob/main/Hand-Written-Digit-Recognition-master/images/6.png">
